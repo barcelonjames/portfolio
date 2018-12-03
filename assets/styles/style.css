@@ -1,0 +1,32 @@
+body {
+	background: url(../images/bg1.jfif) no-repeat center center fixed;
+	-webkit-backgound-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: 'Text Me One', sans-serif;
+}
+h1 {color: white;
+	font-size: 60px;
+	font-weight: bold;
+	margin-bottom: 0;
+}
+h2 { color: white;
+	font-size: 25px;
+	margin-top: 0;
+}
+.bio {color: white;
+	font-size: 20px;
+}
+.me {height: 150px;
+	border-radius: 100%;
+	border-style: double;
+	border-color: red;
+	margin-top: 50px;
+	border-width: 10px;
+}
+.about {width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
